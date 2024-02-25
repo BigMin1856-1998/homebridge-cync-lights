@@ -7,10 +7,10 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/davidashman/homebridge-cync-lights.git"
+    "url": "https://github.com/BigMin1856-1998/homebridge-cync-lights"
   },
   "bugs": {
-    "url": "https://github.com/davidashman/homebridge-cync-lights/issues"
+    "url": "https://github.com/BigMin1856-1998/homebridge-cync-lights/issues"
   },
   "engines": {
     "node": "^18.17.0 || ^20.9.0",
@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "@types/color-convert": "^2.0.3",
-    "@types/node": "^18.16.20",
+    "@types/node": "^18.19.18",
     "@typescript-eslint/eslint-plugin": "^5.62.0",
     "@typescript-eslint/parser": "^5.62.0",
     "eslint": "^8.45.0",
